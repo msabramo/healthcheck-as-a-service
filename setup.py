@@ -11,6 +11,7 @@ from healthcheck import __version__
 
 setup(
     name="tsuru-hcaas",
+    url="https://github.com/tsuru/healthcheck-as-a-service",
     version=__version__,
     description="Healthcheck as a service API for Tsuru PaaS",
     author="Tsuru",
